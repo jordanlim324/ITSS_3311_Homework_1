@@ -1,2 +1,3 @@
 # ITSS_3311_Homework_1
-Old Java Assignments from my ITSS 3311 Class
+ITSS 3311 Homework 1
+Created in Eclipse in 2019
